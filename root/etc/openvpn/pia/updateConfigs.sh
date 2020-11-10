@@ -10,8 +10,8 @@ find . ! -name '*.sh' -delete
 
 baseURL="https://www.privateinternetaccess.com/openvpn/openvpn"
 extension=".zip"
-declare -a configsURLs=(    "" "-strong" "-tcp" "-strong-tcp" "-ip")
-declare -a configsFolders=( "" "strong"  "tcp"  "tcp-strong"  "ip")
+declare -a configsURLs=(    "" "-strong" "-tcp" "-strong-tcp" "-ip" "-nextgen" "-tcp-nextgen" "-strong-tcp-nextgen" "-ip-nextgen")
+declare -a configsFolders=( "" "strong"  "tcp"  "tcp-strong"  "ip"  "nextgen"  "tcp-nextgen"  "tcp-strong-nextgen"  "ip-nextgen")
 
 # warning: keeping folder name "tcp-strong" for legacy reasons, but the url is "strong-tcp".
 
