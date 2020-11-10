@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="PrivadoVPN is a simple, strong, and secure Zero-Log VPN you can trust. Sign up with any Newshosting plan and add PrivadoVPN to your account!">
+<meta name="author" content="Newshosting.com">
+<title>PrivadoVPN - Newshosting</title>
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="canonical" href="https://www.newshosting.com/vpn/" />
+<!-- Bootstrap core CSS and font awesome -->
+<link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<!-- Custom styles -->
+<link href="/css/styles.css" rel="stylesheet">
+<link href="/css/privado-vpn.css" rel="stylesheet">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5MNPFW');</script>
+<!-- End Google Tag Manager -->
+<!-- Page hiding snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-TTNPVM3':true});</script>
+<!-- End page hiding snippet -->
+<!-- Google Search Console -->
+<meta name="google-site-verification" content="3U4FAZpnELWcPdSaGfuFftnU_ySVHBi62fSsd3z7luA" />
+</head>
+<body class="privadovpn">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5MNPFW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+<!-- Data Layer -->
+<script>
+var dataLayer = window.dataLayer = window.dataLayer || [];
+function read_cookie(key) {
+    var result;
+    return (result = new RegExp('(^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? result[2] : null;
+}
+
+var custId = read_cookie('nh_cid') || '';
+custId && dataLayer.push({'accountId': custId});
+</script>
+<!-- End Data Layer -->
+
+<div class="page-container">
+<div class="heading">
+	<div class="body-container">
+		<div class="row">
+			<div class="col-md-3">
+				<div class="logo">
+					<p class="indent">NEWSHOSTING</p>
+				</div>
+			</div>
+			<div class="col-md-9 np">
+				<nav class="main navbar navbar-default">
+					<div class="navbar-header">
+						<button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle" title="Show / Hide Menu"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+										</div>
+										<div id="navbarCollapse" class="collapse navbar-collapse">
+												<ul class="mainnav nav navbar-nav navbar-right">
+														<li class="plans dropdown"> <a class="plans nb dd dropdown-toggle" href="/usenet-access-plans.php" data-toggle="dropdown" id="plansDD">Usenet Plans</a>
+																<ul class="dropdown-menu dropdown-menu-left" role="menu" aria-labelledby="plansDD">
+																		<li class="plans nb"><a href="/usenet-access-plans.php">Usenet Plans</a></li>
+																		<li class="plan-customizer nb"><a href="/usenet-plan-customizer.php">Plan Customizer</a></li>
+																		<li class="newshosting-easynews-partner-account"> <a href="/newshosting-easynews-xl-plan.php">Newshosting &amp; Easynews <br>
+																				Partner Account</a> </li>
+																</ul>
+														</li>
+														<li><a class="browser nb" href="/newsreader.php">Newsreader</a></li>
+														<li class="vpn"><a href="/privadovpn/">VPN</a></li>
+														<li><a class="support nb" href="https://support.newshosting.com/">Support</a></li>
+														<li class="learn dropdown"> <a class="learn nb dd dropdown-toggle" href="#" data-toggle="dropdown" id="learnDD">LEARN</a>
+															<ul class="dropdown-menu dropdown-menu-left" role="menu" aria-labelledby="learnDD">
+															        <li class="learning-center nb"><a href="https://newshosting.com/usenet">Learning Center</a></li>
+																        <li class="what-is-usenet nb"><a href="https://newshosting.com/usenet/partners/what-is-u
+																	senet">What Is Usenet</a></li>
+															</ul>
+														</li>
+														<li><a class="login nb" href="https://controlpanel.newshosting.com/customer/">Login</a></li>
+														<li><a class="button sign-up" href="https://controlpanel.newshosting.com/signup/signup.php" id="signup_header">Sign Up</a></li>
+												</ul>
+										</div>
+								</nav>
+						</div>
+				</div>
+				<!--end row--> 
+		</div>
+</div>
+<!--end heading / header--> 
+<script>
+/* this eliminates the anchor tags from incoming redirects, then updates history. */
+window.location.replace("#");
+if (typeof window.history.replaceState == 'function') {
+	history.replaceState({}, '', window.location.href.slice(0, -1));
+}
+</script>
+
+<div class="body-content">
+	<div class="container-fluid vpn-hero">
+		<div class="body-container">
+			<div class="row">
+				<div class="col-md-5 images">
+					<img src="../images/vpn-icons/privado-hero.png" alt="">
+					<div class="provider">Preferred VPN Provider of <img src="../images/vpn-icons/newshosting.svg" alt="Newshosting" class="svg"/>
+					</div>
+				</div>
+				<div class="col-md-7 center">
+					<h1>Get Private Zero-Log <br>VPN With PrivadoVPN</h1>
+					<ul class="tagline">
+						<li>Fast</li>
+						<li>Easy</li>
+						<li>Secure</li>
+					</ul>
+					<p class="box-limit">PrivadoVPN is a simple, strong, and secure Zero-Log VPN you can trust. Sign up with any Newshosting plan and add PrivadoVPN to your account!</p>
+					<a class="button cta shadow" href="https://controlpanel.newshosting.com/signup/?vpn=1">Start Now</a>
+					<ul class="devices">
+						<li><span class="fa fa-windows"></span></li>
+						<li><span class="fa fa-apple"></span></li>
+						<li><span class="fa fa-android"></span></li>
+					</ul>
+					<p class="sidenote">Already have PrivadoVPN on your account? Click <a href="https://controlpanel.newshosting.com/customer/action/privadovpn.php">here</a> to get started.</p>
+				</div>
+			</div>
+		</div><!-- end body-container -->
+	</div><!-- end container-fluid -->
+	<div class="body-container features">
+		<h2 class="bpadxx center">Why PrivadoVPN?</h2>
+		<div class="privado-features">
+			<div class="col-md-6">
+				<div class="feature">
+					<svg viewBox="0 0 512.00008 512" xmlns="http://www.w3.org/2000/svg"><path d="m300.023438 204.871094c0-52.386719-42.621094-95.007813-95.007813-95.007813s-95.007813 42.621094-95.007813 95.007813c0 52.386718 42.621094 95.007812 95.007813 95.007812s95.007813-42.621094 95.007813-95.007812zm-95.007813 55.003906c-30.328125 0-55.003906-24.671875-55.003906-55.003906 0-30.328125 24.675781-55.003906 55.003906-55.003906s55.003906 24.675781 55.003906 55.003906c0 30.332031-24.675781 55.003906-55.003906 55.003906zm152.011719 212.019531h40.003906v40h-40.003906zm0-96.007812h40.003906v68.003906h-40.003906zm149.519531 114.238281c-7.632813 13.632812-21.484375 21.773438-37.058594 21.773438h-32.453125v-40.003907h32.453125c.386719 0 1.421875 0 2.152344-1.308593.8125-1.453126.164063-2.515626-.054687-2.867188l-92.449219-150.609375c-.210938-.34375-.753907-1.230469-2.105469-1.230469-1.355469 0-1.898438.886719-2.101562 1.21875l-92.464844 150.628906c-.207032.34375-.859375 1.40625-.046875 2.855469.730469 1.3125 1.765625 1.3125 2.152343 1.3125h32.453126v40h-32.453126c-15.574218 0-29.425781-8.136719-37.058593-21.769531-7.566407-13.519531-7.238281-30.113281.855469-43.316406l92.464843-150.628906c7.792969-12.707032 21.324219-20.300782 36.199219-20.300782 14.871094 0 28.40625 7.59375 36.203125 20.308594l92.449219 150.613281c8.101562 13.210938 8.429687 29.808594.863281 43.324219zm-303.695313-32.265625c.769532.570313 1.492188 1.136719 2.164063 1.703125v52.191406l-12.570313-10.15625c-1.945312-1.570312-48.152343-39.089844-95.019531-92.894531-64.648437-74.222656-97.425781-140.847656-97.425781-198.019531v-5.667969c0-113.046875 91.96875-205.015625 205.015625-205.015625s205.015625 91.96875 205.015625 205.015625v5.667969c0 9.972656-1.019531 20.242187-3.011719 30.78125-9.382812-3.644532-19.511719-5.589844-29.988281-5.589844-3.285156 0-6.535156.199219-9.742188.574219 1.769532-8.699219 2.738282-17.3125 2.738282-25.765625v-5.667969c0-90.988281-74.023438-165.011719-165.011719-165.011719s-165.011719 74.023438-165.011719 165.011719v5.667969c0 94.953125 120.234375 209.550781 162.847656 247.175781zm0 0" class="svg" fill="#1cbbd8"/></svg>					<div class="content">
+						<h4>Zero-Log VPN Policy</h4>
+						<p>PrivadoVPN's fast and easy-to-use Zero-Log VPN ensures a strict no-log policy so your online data stays completely private and secure.</p>
+					</div>
+				</div>
+				<div class="feature">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M453.4 162c-10.4 0-20.4 3-29 8.5C413.9 157.4 397.9 149 380 149c-12.8 0-24.5 4.2-34 11.4C335.6 150.3 321.5 144 306 144c-5.9 0-11.6 0.9-17 2.6V57c0-31.4-25.6-57-57-57s-57 25.6-57 57v248.5c0 10.2-6.6 24.5-17.5 25.5 -0.1 0-0.1 0-0.2-0.1l-74.4-28.4 -0.7-0.2c-20.2-6.9-37.6-6.9-51.7 0.1C18.1 308.5 9.1 319.5 3.9 335c-13.5 40.3 10.8 60.8 33.8 74.1l130.5 82.2C187.2 504.8 209.4 512 232.6 512H400.5c30 0 58.2-11.8 79.2-33.1 20.9-21.2 32.3-49.4 32.3-79.5V219.2C512 186.1 487.3 162 453.4 162zM472 399.4c0 40-32.1 72.6-71.5 72.6H232.6c-14.9 0-29.3-4.7-41.5-13.5l-0.5-0.4L58.7 375.1l-0.7-0.4c-11.9-6.9-16-11.7-17.3-14.5 -0.5-1.1-1.8-3.8 1.1-12.5 1.7-5 3.9-8.2 6.5-9.5 4-2 11.5-1.3 20.7 1.8l74.1 28.3 0.2 0.1c5.2 1.9 10.1 2.8 15 2.6 35-1.3 56.6-35 56.6-65.5V57c0-9.4 7.6-17 17-17s17 7.6 17 17v144 23V249h40v-25V201c0-9.4 7.6-17 17-17s17 7.6 17 17v48h40v-42.6c0-9.6 7.6-17.4 17-17.4s17 7.8 17 17.4v14.1V246v3h40v-3 -25.4c0-8.8 6.7-18.6 16.4-18.6 5.6 0 18.6 1.7 18.6 17.2L472 399.4 472 399.4z" class="svg" fill="#1cbbd8"/></svg>
+					<div class="content">
+						<h4>Easy-to-Use Client</h4>
+						<p>Ultra-secure and hyper effective, PrivadoVPN's Zero-Log VPN client is simple and easy-to-use. Protecting your privacy takes just one click.</p>
+					</div>
+				</div>
+				<div class="feature geo-restrictions">
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	<path class="svg" fill="#4E55C2" d="M414.4,331.7c25-30.1,38.6-67.7,38.6-107.4c0-45-17.5-87.3-49.3-119.1c-9.6-9.6-20.4-18-31.9-25
+		C368.1,35.4,330.4,0,284.6,0c-45.8,0-83.5,35.4-87.2,80.2c-7.3,4.4-14.3,9.4-20.8,14.9l-30.4-30.4c-5.9-5.9-15.4-5.9-21.2,0
+		c-42.6,42.6-66.1,99.3-66.1,159.6S82.4,341.3,125,384c31.7,31.7,71.1,52.8,114,61.5V482h-39.4c-8.3,0-15,6.7-15,15s6.7,15,15,15
+		H254h114.4c8.3,0,15-6.7,15-15s-6.7-15-15-15H329v-36.2c43.4-8.6,83.3-29.8,115.3-61.8l0.8-0.8c5.8-5.9,5.8-15.4-0.1-21.2
+		L414.4,331.7z M186.7,126.5c4.9-4.9,10.1-9.4,15.6-13.4c4.6,12.5,11.7,25.3,19.2,36.9c-19.1,10.2-31.6,30.1-31.6,52.5
+		c0,32.8,26.7,59.5,59.5,59.5h51.2c-2.4,6.5-3.7,13.5-3.7,20.5c0,32.8,26.7,59.5,59.5,59.5h1.2c-22.3,13.8-47.6,20.7-73,20.7
+		c-35.4,0-70.9-13.5-97.9-40.5c-26.1-26.1-40.6-60.9-40.6-97.9S160.6,152.6,186.7,126.5L186.7,126.5z M391.8,312c-0.3,0-0.5,0-0.8,0
+		h-34.5c-16.3,0-29.5-13.2-29.5-29.5c0-9.3,4.3-17.9,11.8-23.5c5.1-3.9,7.2-10.6,5.2-16.7c-2.1-6.1-7.8-10.2-14.2-10.2h-80.2
+		c-16.3,0-29.5-13.2-29.5-29.5c0-12.5,7.9-23.5,19.4-27.7c6.7,8.5,13.8,16.7,20.4,23.6c13.5,14.1,18.8,16.6,24.9,16.6
+		s11.4-2.5,24.9-16.6c7-7.4,14.6-16.2,21.8-25.4h80.2c0.6,0,1.2,0,1.7-0.1c6.5,16.2,9.9,33.5,9.9,51.5
+		C423.1,256.7,412.1,287.4,391.8,312L391.8,312z M396.7,143h-44.6c5.9-9.7,11.2-19.9,14.8-30c5.5,4.1,10.7,8.6,15.6,13.4
+		C387.7,131.6,392.4,137.2,396.7,143L396.7,143z M284.6,30c31.7,0,57.5,25.8,57.5,57.5c0,12.5-10.1,33.6-27.7,57.9
+		c-11.5,16-22.9,28.5-29.8,35.5c-7-6.9-18.3-19.5-29.8-35.5c-17.6-24.3-27.7-45.4-27.7-57.9C227.1,55.8,252.9,30,284.6,30z M299,482
+		h-30v-32.5c5.2,0.4,10.4,0.5,15.6,0.5c4.8,0,9.6-0.2,14.4-0.5V482z M146.2,362.8C73.5,290,70.1,173.8,136,97l19.4,19.4
+		c-25.4,30.3-39.2,68.1-39.2,108c0,45,17.5,87.3,49.3,119.1c32.8,32.8,76,49.3,119.1,49.3c38.7,0,77.4-13.2,108.7-39.7l19.5,19.3
+		C336,438.9,219.2,435.7,146.2,362.8L146.2,362.8z"/>
+	<path class="svg" fill="#4E55C2" d="M284.6,102.5c8.3,0,15-6.7,15-15s-6.7-15-15-15s-15,6.7-15,15S276.4,102.5,284.6,102.5z"/>
+</svg>
+					<div class="content">
+						<h4>Avoid Geo Restrictions</h4>
+						<p>Change your virtual address at any time so you can view content that’s only available in a specific location, no matter where you physically are.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="feature">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M490.1 0.9c-1.5 0.1-38.3 1.7-87.1 15.3 -64.9 18.1-120.6 49-161.1 89.5 -26.2 26.2-51.1 58.3-72 88.3l-19.1-19.1c-14.7-14.7-34.3-22.9-55.2-23 -0.1 0-0.3 0-0.4 0 -20.7 0-40.1 7.9-54.9 22.4L0.2 212.8v38h22.8c21.2 0 41.2 8.3 56.2 23.3l158.8 159c15 15 23.3 35 23.3 56.2v22.8h38l38.6-40.1c14.5-14.9 22.5-34.5 22.4-55.4 -0.1-20.8-8.3-40.4-23-55.2l-19.3-19.3c29.9-21 62.1-46 88.3-72.2 40.5-40.5 71.4-96.2 89.5-161.1 13.6-48.7 15.2-85.5 15.3-87.1L511.8 0 490.1 0.9zM468.5 43.3c-2 14.1-5.5 33.7-11.7 55.8 -0.8 2.8-1.7 5.8-2.6 8.8l-50.3-50.3c3-0.9 5.9-1.8 8.8-2.6C434.9 48.8 454.4 45.2 468.5 43.3zM55.3 215.2l12.7-12.3 0.1-0.1c15.1-14.7 39.5-14.6 54.4 0.3l24.7 24.7c-8.8 13.7-16.3 26-22.1 35.7l-17.8-17.8C92.7 231.1 74.8 220.6 55.3 215.2zM308.9 389.7c14.9 14.9 15 39.3 0.3 54.4l-12.4 12.8c-5.5-19.5-15.9-37.4-30.6-52.1l-17.7-17.7c9.7-5.8 21.9-13.3 35.6-22.2L308.9 389.7zM377.9 241.6c-50.6 50.6-128 98.3-158.5 116.3l-65-65.1c17.8-30.6 65.2-108.2 115.8-158.9 28.2-28.2 61.6-47.8 92.4-61.2l76.4 76.4C425.6 180.1 406.1 213.4 377.9 241.6zM320.2 191.6c7.8 7.8 7.8 20.5 0 28.3 -7.8 7.8-20.5 7.8-28.3 0 -7.8-7.8-7.8-20.5 0-28.3C299.7 183.8 312.4 183.8 320.2 191.6zM265.2 245.6c7.8 7.8 7.8 20.5 0 28.3s-20.5 7.8-28.3 0c-7.8-7.8-7.8-20.5 0-28.3S257.4 237.8 265.2 245.6zM124.8 415.3l-95.5 95.5 -28.3-28.3 95.5-95.5L124.8 415.3zM171 422l28.3 28.3 -60.5 60.5 -28.3-28.3L171 422zM89.8 340.9l-60.5 60.5 -28.3-28.3 60.5-60.5L89.8 340.9zM376.1 164.9c-7.8 7.8-20.5 7.8-28.3 0 -7.8-7.8-7.8-20.5 0-28.3 7.8-7.8 20.5-7.8 28.3 0C383.9 144.5 383.9 157.1 376.1 164.9z" class="svg" fill="#1cbbd8"/></svg>					<div class="content">
+						<h4>Fastest Speeds Available</h4>
+						<p>With servers across the globe, PrivadoVPN is optimized for the fastest connections and speeds so you don't have to sacrifice speed for security.</p>
+					</div>
+				</div>
+				<div class="feature">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M467.983 342v-26.014c0-32.525-26.916-58.986-60-58.986s-60 26.461-60 58.986V342H304v170h208V342h-44.017zm-80-26.014c0-10.469 8.972-18.986 20-18.986s20 8.518 20 18.986V342h-40v-26.014zM472 472H344v-90h128v90zM158.439 276h158.078c7.168-16.002 18.495-29.789 32.623-40H276v-78h66.874c5.649 23.355 9.231 48.692 10.545 75.087a99.967 99.967 0 0139.128-14.886c-1.601-20.813-4.521-41.009-8.674-60.201h64.567a214.378 214.378 0 0122.625 78h40.161c-4.671-60.842-30.6-117.412-74.207-161.02C388.667 26.629 324.38 0 256 0S123.333 26.629 74.98 74.98C26.629 123.333 0 187.62 0 256s26.629 132.667 74.98 181.02C123.333 485.371 187.62 512 256 512c2.674 0 5.339-.055 8-.136V471.16c-2.669.548-5.339.84-8 .84-23.207 0-47.099-21.165-65.55-58.067-3.165-6.329-6.11-12.988-8.837-19.933H264v-40h-94.879c-5.861-24.212-9.493-50.556-10.682-78zM236 236h-77.561c1.189-27.443 4.823-53.788 10.682-78H236v78zm186.025-118h-49.103c-4.521-13.421-9.729-26.089-15.595-37.821-3.687-7.373-7.586-14.257-11.665-20.67 29.66 13.588 55.726 33.704 76.363 58.491zM321.55 98.067c3.164 6.328 6.107 12.989 8.833 19.933H276V45.108c16.469 8.342 32.393 26.645 45.55 52.959zM236 45.108V118h-54.384c2.727-6.944 5.67-13.604 8.834-19.933C203.607 71.753 219.531 53.45 236 45.108zm-69.662 14.401c-4.079 6.413-7.979 13.297-11.665 20.67-5.866 11.732-11.074 24.401-15.596 37.821H89.975c20.637-24.787 46.703-44.903 76.363-58.491zM63.56 158h64.565c-5.33 24.621-8.629 50.894-9.718 78H40.935a214.378 214.378 0 0122.625-78zm-.019 196a214.342 214.342 0 01-22.606-78h77.473c1.089 27.107 4.387 53.38 9.718 78H63.541zm26.422 40h49.11c4.522 13.421 9.733 26.088 15.599 37.821 3.687 7.373 7.586 14.257 11.665 20.67-29.661-13.589-55.734-33.7-76.374-58.491z" class="svg" fill="#1cbbd8"/></svg>					<div class="content">
+						<h4>Premium Network</h4>
+						<p>With a network of servers located around the world, enjoy a stable, fast, and reliable connection when you go online.</p>
+					</div>
+				</div>
+				<div class="feature">
+					<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="m432.109375 386.851562c12.96875-14.226562 20.890625-33.128906 20.890625-53.851562 0-44.113281-35.886719-80-80-80s-80 35.886719-80 80c0 21.042969 8.179688 40.199219 21.507812 54.496094-24.253906 11.636718-44.609374 30.15625-58.507812 53.011718-13.898438-22.855468-34.253906-41.375-58.507812-53.011718 13.328124-14.296875 21.507812-33.453125 21.507812-54.496094 0-44.113281-35.886719-80-80-80s-80 35.886719-80 80c0 20.722656 7.921875 39.625 20.890625 53.851562-47.136719 21.972657-79.890625 69.804688-79.890625 125.148438h40c0-54.035156 43.960938-98 98-98s98 43.964844 98 98h40c0-54.035156 43.960938-98 98-98s98 43.964844 98 98h40c0-55.34375-32.753906-103.175781-79.890625-125.148438zm-293.109375-93.851562c22.054688 0 40 17.945312 40 40s-17.945312 40-40 40-40-17.945312-40-40 17.945312-40 40-40zm234 0c22.054688 0 40 17.945312 40 40s-17.945312 40-40 40-40-17.945312-40-40 17.945312-40 40-40zm-335.730469-114.550781c20.382813 14.753906 48.644531 22.550781 81.730469 22.550781 6.855469 0 13.832031-.402344 20.835938-1.207031 15.59375 13.269531 34.363281 18.207031 48.140624 18.207031h.242188 36.046875l-19.078125-30.585938c-.03125-.050781-2.015625-3.382812-4.253906-9.230468 24.039062-17.539063 37.066406-44.585938 37.066406-77.769532 0-33.40625-12.894531-60.367187-37.296875-77.964843-20.355469-14.6875-48.609375-22.449219-81.703125-22.449219s-61.347656 7.761719-81.703125 22.445312c-24.402344 17.601563-37.296875 44.5625-37.296875 77.96875 0 33.402344 12.886719 60.386719 37.269531 78.035157zm81.730469-138.449219c36.039062 0 79 10.480469 79 60.414062 0 24.386719-9.632812 40.980469-29.445312 50.738282l-13.351563 6.574218-.621094-.71875-11.121093 1.886719c-8.242188 1.394531-16.472657 2.105469-24.460938 2.105469-36.039062 0-79-10.511719-79-60.585938 0-49.933593 42.960938-60.414062 79-60.414062zm192.058594 138.175781c-2.105469 5.488281-4 8.8125-4.285156 9.304688l-19.527344 30.367187 36.53125.152344h.238281c13.78125 0 32.554687-4.941406 48.148437-18.207031 7.003907.804687 13.980469 1.207031 20.835938 1.207031 33.085938 0 61.347656-7.796875 81.730469-22.550781 24.382812-17.648438 37.269531-44.632813 37.269531-78.035157 0-33.40625-12.894531-60.367187-37.296875-77.964843-20.355469-14.6875-48.609375-22.449219-81.703125-22.449219s-61.347656 7.761719-81.703125 22.445312c-24.402344 17.601563-37.296875 44.5625-37.296875 77.96875 0 33.175782 13.027344 60.226563 37.058594 77.761719zm81.941406-138.175781c36.039062 0 79 10.480469 79 60.414062 0 50.074219-42.960938 60.585938-79 60.585938-7.988281 0-16.21875-.710938-24.460938-2.105469l-11.125-1.886719-.621093.71875-13.347657-6.574218c-19.8125-9.757813-29.445312-26.355469-29.445312-50.738282 0-49.933593 42.960938-60.414062 79-60.414062zm0 0" class="svg" fill="#1cbbd8"/></svg>					<div class="content">
+						<h4>24/7 Friendly Customer Support</h4>
+						<p>PrivadoVPN’s professional support team is available and ready to help you whenever, wherever. Get the help you need immediately.</p>
+					</div>
+				</div>
+			</div><!-- col-md-6 -->
+			<div class="clearfix"></div>
+		</div><!-- privado-features -->
+	</div>
+
+	<div class="container-fluid what-is-vpn">
+		<div class="body-container">
+			<div class="content">
+				<h2 class="bpadx">What is a VPN?</h2>
+				<p>A VPN, or Virtual Private Network, is an encryption tool that puts you in total control of your IP address by allowing you to change your virtual location, enjoy total online privacy, and secure your data.</p>
+			</div>
+			<div class="image">
+				<img src="../images/vpn-icons/privado-devices.png" alt="">
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid final-cta">
+		<div class="body-container center">
+			<h2>Get PrivadoVPN On Your Newshosting Account</h2>
+			<a class="button cta shadow" href="https://controlpanel.newshosting.com/signup/?vpn=1">Get Started</a>
+			<p class="sidenote">Already have PrivadoVPN on your account? Click <a href="https://controlpanel.newshosting.com/customer/action/privadovpn.php">here</a> to get started.</p>
+			
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div><!--end body-content-->
+
+<div id="push"></div>
+</div>
+<!--end page container-->
+
+<footer>
+	<div class="supfoot">
+		<div class="body-container padxxx">
+			<!--<div class="row">-->
+				<div class="col-md-4">
+					<nav>
+						<div class="col-md-6">
+							<ul class="pad">
+							<li><a href="/">Home</a></li>
+							<li><a href="/usenet-access-plans.php">Usenet Plans</a></li>
+							<li><a href="/usenet-plan-customizer.php">NH Plan Customizer</a></li>
+							<li><a href="/newsreader.php">Newsreader</a></li>
+							</ul>
+						</div>
+						<div class="col-md-6">
+							<ul class="pad">
+							<li><a href="https://support.newshosting.com/">Support</a></li>
+							<li><a href="/usenet">Learn</a></li>
+							<li><a href="https://controlpanel.newshosting.com/customer/">Member Login</a></li>
+                            <li><a href="/contact">Contact</a></li>
+							</ul>
+						</div>
+					</nav>
+				</div>
+				<div class="col-md-4">
+					<section class="widget newsletter-widget">
+						<h2 class="widget-title">Newsletter Signup</h2>
+						<script type="text/javascript" src="//app.sgwidget.com/js/sg-widget-v2.js"></script>
+<div data-emailerror="Please enter a valid email address" data-nameerror="Please enter your name" data-checkboxerror="Please tick the box to accept our conditions" data-customfieldserror="This field is required" class="sendgrid-subscription-widget widget-1003">
+	<form id="sendgrid-subscription-widget" data-token="2e334c87fe308bf03e8006d58f7ac882" onsubmit="return false;" class="sg-widget">
+		<input type="email" name="sg_email" placeholder="you@example.com" required="required" class="sg_email">
+		<button type="submit" id="widget-1003" value="Subscribe" class="btn sg-submit-btn">Submit</button>
+	</form>
+	<div class="sg-response"></div>
+</div>
+					</section>
+				</div>
+				<div class="col-md-4 last">
+					<div class="connect">
+						<h4>Connect With Us</h4>
+						<div class="row spad">
+							<div class="social youtube"> <a href="http://www.youtube.com/newshostingusenet" target="_blank"> <i class="fa fa-youtube-square"></i> </a> </div>
+							<div class="social twitter"> <a href="http://www.twitter.com/newshosting" target="_blank"> <i class="fa fa-twitter-square "></i> </a> </div>
+							<div class="social fb"> <a href="http://www.facebook.com/newshosting" target="_blank"> <i class="fa fa-facebook-square"></i> </a> </div>
+						</div>
+					</div>
+				</div>
+			<!-- </div> -->
+			<!--end row--> 
+		</div>
+	</div>
+	<div class="subfoot padx spadxxx">
+		<div class="body-container">
+			<div class="row">
+				<div class="col-md-5 copy">
+					<p>Copyright &copy; 2020 Newshosting</p>
+				</div>
+				<div class="col-md-7">
+					<ul class="rightnav">
+						<li class="spad"><a href="/terms-of-service.php">Terms of Use</a></li>
+						<li class="spad"><a href="/dmca/">DMCA Policy</a></li>
+												<li class="spad"><a href="/privacy-policy.php">Privacy Policy</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--end subfoot--> 
+</footer>
+
+<!--PAP-->
+<script type="text/javascript"><!--
+    document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") +
+    "usenetjunction.com/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
+</script>
+<script type="text/javascript"><!--
+    PostAffTracker.setAccountId('default1');
+    try {
+    PostAffTracker.track();
+    } catch (err) { }
+    //-->
+</script>
+
+<script>
+    //Return the query string value based upon the name
+    function getParamValueByName(param_name) {
+        var query = window.location.search.substring(1);
+        var vars = query.split('&');
+
+        for (var i=0;i<vars.length;i++) {
+            var pair = vars[i].split('=');
+
+            if(pair[0] == param_name) {
+                return pair[1];
+            }
+        }
+
+        return false;
+    }
+
+    //Retrieves affiliates from cookie
+    function getCookie(cookie_name) {
+        var re = new RegExp(cookie_name + '=([^;]+)');
+        var value = re.exec(document.cookie);
+        return (value != null ? unescape(value[1]) : null);
+    }
+
+    function getAffiliates() {
+        var affPartners = getCookie('aff_partners');
+        return( affPartners ? affPartners : false);
+    }
+
+    //Stores affiliates (and timestamps) to cookie
+    function setAffiliates(current_affiliates, new_affiliate) {
+        var updatedAffiliates = '';
+
+        if(current_affiliates){
+            updatedAffiliates = current_affiliates;
+            updatedAffiliates += new_affiliate + ':' + 1604989372+';';
+        }else{
+            updatedAffiliates = new_affiliate + ':' + 1604989372+';';
+        }
+
+        var d = new Date();
+        d.setTime(d.getTime() + (60*24*60*60*1000));
+        var expires = "expires="+ d.toUTCString();
+        document.cookie = 'aff_partners='+encodeURIComponent(updatedAffiliates)+';'+expires+';domain=.newshosting.com;path=/';
+    }
+
+    //Returns the last affiliate added to the affiliates cookie
+    function getLastAffiliate() {
+        var current_affiliates = getAffiliates();
+
+        if(current_affiliates){
+            var affiliatesArray = current_affiliates.split(';');
+            var lastAffiliate = affiliatesArray[affiliatesArray.length-2].split(':')[0];
+        }
+
+        return (lastAffiliate ? lastAffiliate : false);
+    }
+
+    //Parameters to look for in URL query
+    var params_requested = ['a_aid', 'campaign_id'];
+
+    params_requested.forEach(function(param_name) {
+        if(getParamValueByName(param_name)) {
+            if(param_name === 'a_aid'){
+                var new_affiliate = getParamValueByName('a_aid');
+
+                if(getLastAffiliate() != new_affiliate) {
+                    setAffiliates(getAffiliates(), new_affiliate);
+                }
+            }
+
+            if(param_name === 'campaign_id') {
+                var d = new Date();
+                d.setTime(d.getTime() + (60*24*60*60*1000));
+                var expires = "expires="+ d.toUTCString();
+                document.cookie = 'campaign_id='+getParamValueByName('campaign_id')+';'+expires+';domain=.newshosting.com;path=/';
+            }
+        }
+    });
+</script>
+
+<!-- JavaScript--> 
+<!-- Placed at the end of the document so the pages load faster --> 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> 
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js"></script> 
+
+<!--site scripts--> 
+<script type="text/javascript" src="/js/scripts.js"></script> 
+<script type="text/javascript" src="/js/slider.js"></script>
+<script>
+	if (document.querySelectorAll('[data-toggle="tooltip"]')) {
+		$('[data-toggle="tooltip"]').tooltip();
+	}
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '882646505173183');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=882646505173183&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --></body>
+</html>
