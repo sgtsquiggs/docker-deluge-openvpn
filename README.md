@@ -1,3 +1,9 @@
+# This repo is looking for a new maintainer!
+I don't have the time to maintain this - it was never tested outside of PIA and there are a lot of features in the readme that were never tested w/ deluge.
+I am currently maintaining [sgtsquiggs/deluge-pia](https://github.com/sgtsquiggs/docker-deluge-pia) instead.
+Please feel free to fork this if you're using another VPN!
+
+
 # OpenVPN and Deluge with WebUI
 
 [![Docker Automated build](https://img.shields.io/docker/automated/sgtsquiggs/deluge-openvpn.svg)](https://hub.docker.com/r/sgtsquiggs/deluge-openvpn/)
